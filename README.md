@@ -4,18 +4,18 @@ This Game Engine was created using the latest generation technologies. Using Jav
 # The characteristics of Velocity-Engine are:
 - Interactive and easy to use UI / UX
 - Multiplatform compiler
--Scratch, Python and JavaScript support for professional games
--Import and export Assets (Sounds, materials, images, 3d models etc ...) in the various formats available
+- Scratch, Python and JavaScript support for professional games
+- Import and export Assets (Sounds, materials, images, 3d models etc ...) in the various formats available
 - OpenGL and WebGL support
--Assets Marketplace (optional) in which there may be DLC
--Added native code (C, C ++) to improve the frames of the created game (optional)
+- Assets Marketplace (optional) in which there may be DLC
+- Added native code (C, C ++) to improve the frames of the created game (optional)
 - Import custom maps (optional)
--Support for Blockbench 3d models, and minecraft models (optional)
--The upcoming game can be both open-source and proprietary software
--The game will be able to sell DLC (optional)
--Create multiplayer and cross-platform games (optional)
--Support API mod for video games (optional)
--Open Source Engine on Github
+- Support for Blockbench 3d models, and minecraft models (optional)
+- The upcoming game can be both open-source and proprietary software
+- The game will be able to sell DLC (optional)
+- Create multiplayer and cross-platform games (optional)
+- Support API mod for video games (optional)
+- Open Source Engine 
 
 
 
