@@ -23,4 +23,4 @@ This Game Engine was created using the latest generation technologies. Using Jav
 
 
 
-# This is the demo version of engine, wich has more bugs
+# This is the demo version of engine, which has more bugs
