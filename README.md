@@ -8,7 +8,7 @@ This Game Engine was created using the latest generation technologies. Using Jav
 - Import and export Assets (Sounds, materials, images, 3d models etc ...) in the various formats available
 - OpenGL and WebGL support
 - Assets Marketplace (optional) in which there may be DLC
-- Added native code (C, C ++) to improve the frames of the created game (optional)
+- Possibility to add native code (C, C ++) to improve the frames of the created game (optional)
 - Import custom maps (optional)
 - Support for Blockbench 3d models, and minecraft models (optional)
 - The upcoming game can be both open-source and proprietary software
